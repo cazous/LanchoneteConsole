@@ -1,0 +1,8 @@
+C:\Users\Home\source\repos\Lanchonete3Lanches\Lanchonete3Lanches\bin\Debug\Lanchonete3Lanches.exe.config
+C:\Users\Home\source\repos\Lanchonete3Lanches\Lanchonete3Lanches\bin\Debug\Lanchonete3Lanches.exe
+C:\Users\Home\source\repos\Lanchonete3Lanches\Lanchonete3Lanches\bin\Debug\Lanchonete3Lanches.pdb
+C:\Users\Home\source\repos\Lanchonete3Lanches\Lanchonete3Lanches\obj\Debug\Lanchonete3Lanches.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Lanchonete3Lanches\Lanchonete3Lanches\obj\Debug\Lanchonete3Lanches.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\source\repos\Lanchonete3Lanches\Lanchonete3Lanches\obj\Debug\Lanchonete3Lanches.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Lanchonete3Lanches\Lanchonete3Lanches\obj\Debug\Lanchonete3Lanches.exe
+C:\Users\Home\source\repos\Lanchonete3Lanches\Lanchonete3Lanches\obj\Debug\Lanchonete3Lanches.pdb
